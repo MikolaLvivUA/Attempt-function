@@ -66,7 +66,7 @@ available = [240,360,720];
 allowed = [240,360,720,1080];
 preferred = [240,360];
 res = attempt(available,allowed,preferred);
-console.log(`${res} : 240, 360}`);
+console.log(`${res} : 240, 360`);
 
 available = [240,720];
 allowed = [240,360,720,1080];
